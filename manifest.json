@@ -1,0 +1,20 @@
+{
+  "name": "Escada Rolante",
+  "short_name": "Escada Rolante",
+  "description": "Aplicativo interativo de manutenção, simulação e diagnóstico de escadas rolantes.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07182D",
+  "theme_color": "#07182D",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
